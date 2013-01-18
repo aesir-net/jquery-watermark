@@ -1,0 +1,15 @@
+{
+    "name": "watermark",
+    "title": "jQuery watermark plugin",
+    "version": "1.0.0",
+    "author": "Dmitriy Nosenko, Sergey Ignatiev",
+    "licenses": [
+        {
+            "type": "The MIT License (MIT)",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
