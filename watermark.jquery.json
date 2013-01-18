@@ -1,14 +1,25 @@
 {
     "name": "watermark",
     "title": "jQuery watermark plugin",
-    "version": "1.0.0",
-    "author": "Dmitriy Nosenko, Sergey Ignatiev",
+    "version": "1.0.1",
+    "author": {
+        "name": "Dmitriy Nosenko",
+        "email": "aesir.net@gmail.com",
+        "url": "https://github.com/aesir-net/jquery-watermark/blob/master/AUTHORS"
+    },
+    "maintainers": [
+        {
+            "name": "Sergey Ignatiev",
+            "email": "ignatiev.dev@gmail.com"
+        }
+    ],
     "licenses": [
         {
-            "type": "The MIT License (MIT)",
+            "type": "MIT",
             "url": "http://opensource.org/licenses/MIT"
         }
     ],
+    "homepage": "https://github.com/aesir-net/jquery-watermark",
     "dependencies": {
         "jquery": ">=1.7"
     }
