@@ -1,12 +1,12 @@
 {
     "name": "watermark",
     "title": "jQuery watermark",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Watermark plugin that displays watermark text for inputs.",
     "author": {
         "name": "Dmitriy Nosenko",
         "email": "aesir.net@gmail.com",
-        "url": "https://github.com/aesir-net/jquery-watermark/blob/master/AUTHORS"
+        "url": "https://github.com/aesir-net"
     },
     "maintainers": [
         {
@@ -21,7 +21,11 @@
             "url": "http://opensource.org/licenses/MIT"
         }
     ],
+    "keywords": ["watermark", "input"],
+    "bugs": "https://github.com/aesir-net/jquery-watermark/issues",
+    "docs": "https://github.com/aesir-net/jquery-watermark/blob/master/README.md",
     "homepage": "https://github.com/aesir-net/jquery-watermark",
+    "download": "https://github.com/aesir-net/jquery-watermark/tags",
     "dependencies": {
         "jquery": ">=1.7"
     }
