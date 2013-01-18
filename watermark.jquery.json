@@ -1,7 +1,8 @@
 {
     "name": "watermark",
-    "title": "jQuery watermark plugin",
-    "version": "1.0.1",
+    "title": "jQuery watermark",
+    "version": "1.0.2",
+    "description": "Watermark plugin that displays watermark text for inputs.",
     "author": {
         "name": "Dmitriy Nosenko",
         "email": "aesir.net@gmail.com",
@@ -10,7 +11,8 @@
     "maintainers": [
         {
             "name": "Sergey Ignatiev",
-            "email": "ignatiev.dev@gmail.com"
+            "email": "ignatiev.dev@gmail.com",
+            "url": "http://sergey-ignatiev.com"
         }
     ],
     "licenses": [
